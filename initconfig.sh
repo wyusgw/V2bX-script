@@ -349,7 +349,7 @@ EOF
                 "type": "field",
                 "outboundTag": "block",
                 "domain": [
-                    "geosite:cn"
+                    "geosite:private"
                 ]
             },
             {
