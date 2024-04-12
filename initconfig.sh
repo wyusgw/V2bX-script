@@ -328,7 +328,7 @@ EOF
     # 创建 route.json 文件
     cat <<EOF > /etc/V2bX/route.json
     {
-        "domainStrategy": "AsIs",
+        "domainStrategy": "IPIfNonMatch",
         "rules": [
             {
                 "type": "field",
