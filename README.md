@@ -9,10 +9,10 @@ Find the source code here: [InazumaV/V2bX](https://github.com/InazumaV/V2bX)
 
 # 详细使用教程
 
-[教程](https://v2bx.v-50.me/)
+[教程](https://v2bx.v-50.me)
 
 # 一键安装
 
 ```
-wget -N https://raw.githubusercontent.com/wyx2685/V2bX-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/wyusgw/V2bX-script/master/install.sh && bash install.sh
 ```
